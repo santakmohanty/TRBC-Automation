@@ -1,5 +1,7 @@
 # TRBC-Implementation <br>
-## An attempt to create a automated digital verson of the business process.<br>
+## An attempt to create a automated digital verson of the Thompson Reuters Business classification.<br>
+
+With a detailed map of the sectors and elegant classification into Sectors, groups, Activity etc, presents an amazing oppertunity for incorporation into a library style package for further applicable uses. We intend to implement adnaved NLP methodologies to extract this classification information from the website of the respective businesses. Currently TRBC classifies over 70,000 businees across the globe, although impressive it is nowhere nere the scale of businesses operational across the globe. 
 
 **Process flow (intended):** <br>
 - Scrap websites, <br>
@@ -7,7 +9,7 @@
   Longterm: use distributed crawler systems crawlers in the furture) <br>
 - Scoop relevant text from the pages <br>
 - Determine classification of the text <br>
-- (Maybe percentage of business in a conglomerate) <br>
+- (Percentage of overall operation in a conglomerate, Dominant and other sectors) <br>
 
 
 **Appraoch** <br>
