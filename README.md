@@ -1,5 +1,5 @@
 # TRBC-Implementation <br>
-## An attempt to create a automated digital verson of the Thompson Reuters Business classification.<br>
+## An attempt to create a automated version of the Thompson Reuters Business classification.<br>
 
 Thompson Reuters Business classification is a detailed map of the business sectors, with and an elegant classification into Sectors, groups, Activity etc, it presents an amazing oppertunity for incorporation into a library style package for further applications. We intend to implement adnaved NLP methodologies to extract this classification information from the website of the respective businesses. Currently TRBC classifies over 70,000 businees across the globe, although impressive it is nowhere nere the scale of businesses operational across the globe, an automated screening mechanism makes this problem within reach.
 
