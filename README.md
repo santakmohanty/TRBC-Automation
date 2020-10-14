@@ -12,7 +12,7 @@
 
 **Appraoch** <br>
 - We lack classified data for training. <br>
-- Presently going with a dataset with similar lengths of text as found in a website <br>
+- Presently going with a dataset with similar lengths of text as found in a website to demonstarte calssification capabilities of the model.
    Going with The AG news excerpts datset. <br>
    Used the master dataset, Super unclean data.<br>
    
